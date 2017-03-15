@@ -131,6 +131,7 @@ a.menu-link {
 	font-size: 16px;
 	border: 1px solid transparent;
 	-webkit-border-radius: 5px;
+	border-radius: 5px;
 	text-decoration: none;
 	color: #ffffff;
 }
@@ -668,13 +669,13 @@ a.menu-link {
 	.boat-searching {
 		max-width: 95%;
 		-webkit-border-radius: 5px;
-		border-right: 5px;
+		border-radius: 5px;
 	}
 	.reservation-btn {
 		max-width:60%;
 		margin: 15px 0 0 0;
 		-webkit-border-radius: 5px;
-		border-right: 5px;
+		border-radius: 5px;
 	}
     .reservation-info-list {
         top: 90px;
